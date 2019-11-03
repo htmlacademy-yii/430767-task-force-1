@@ -1,7 +1,7 @@
-# Личный проект «TaskForce»
+﻿# Личный проект «TaskForce»
 
 * Студент: [Рамиль Валиев](https://up.htmlacademy.ru/yii/1/user/430767).
-* Наставник: `Неизвестно`.
+* Наставник: [Evgeny Savich](https://htmlacademy.ru/profile/id68926).
 
 ---
 
